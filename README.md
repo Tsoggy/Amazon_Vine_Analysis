@@ -1,1 +1,5 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
+
+## Google Colab, AWS, SQL, Python, Spark
+
+### Overview
