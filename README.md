@@ -18,7 +18,7 @@ The goal is to compare how many 5-star reviews were written by paid Amazon Vine 
 - ![Unpaid_Reviews](Resources/Unpaid_Reviews.png)
 - Of the 4,532 unpaid reviews, 2,507 were 5-star reviews
 - 55.32% of all unpaid reviews were 5-star reviews
-<"Resources/Unpaid_Reviews1.png", width="500">
+<img src = "Resources/Unpaid_Reviews1.png" width="500">
 
 ## Summary
 This dataset doesn't help us to compare reviews written by members of the paid Amazon Vine program, however, it is clear that Vine members are not reviewing digital music purchases.
